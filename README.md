@@ -16,6 +16,16 @@ To play the game, move your character within the confines of the PC box and aim 
 
 The game mechanics ensure that you cannot pass through walls, glass, or any other components inside the PC. The collision detection system handles these interactions, maintaining a realistic and immersive experience.
 
+## Game Design  
+   - Game Coordinates
+     ![Game Coordinates](<Game%20design/Game%20coordinates.jpg>)
+   - Ant Placing
+     ![Ant Placing](<Game%20design/ant%20placing.jpg>)
+   - Collision Heat Map
+     ![Collision Map](<Game%20design/collision%20heat%20map.jpg>)
+   - Keyboard Control
+     ![Keyboard Control](<Game%20design/Keyboard%20control.PNG>)
+
 ## Preview Video
 
 Watch the preview video below to get a glimpse of the OpenGL Ant Killer Game in action:
