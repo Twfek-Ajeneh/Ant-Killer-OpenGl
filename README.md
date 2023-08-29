@@ -37,6 +37,4 @@ The game mechanics ensure that you cannot pass through walls, glass, or any othe
 
 Watch the preview video below to get a glimpse of the OpenGL Ant Killer Game in action:
 
-[![OpenGL Ant Killer Game Preview ↗](<>)](%5Bhttps://www.youtube.com/watch?v=VIDEO_ID) ↗\](https://www.youtube.com/watch?v=VIDEO_ID))
-
-Click on the image above to watch the preview video on YouTube.
+[![OpenGL Ant Killer Game Preview](<Game%20design/image.png>)](<Game%20design/preview.mp4>)
