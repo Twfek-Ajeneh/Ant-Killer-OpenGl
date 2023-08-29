@@ -18,12 +18,19 @@ The game mechanics ensure that you cannot pass through walls, glass, or any othe
 
 ## Game Design  
    - Game Coordinates
+
      ![Game Coordinates](<Game%20design/Game%20coordinates.jpg>)
+     
    - Ant Placing
+
      ![Ant Placing](<Game%20design/ant%20placing.jpg>)
+     
    - Collision Heat Map
+
      ![Collision Map](<Game%20design/collision%20heat%20map.jpg>)
+     
    - Keyboard Control
+     
      ![Keyboard Control](<Game%20design/Keyboard%20control.PNG>)
 
 ## Preview Video
